@@ -22,5 +22,4 @@ stanley = Person("Stanley Hudson", "Paper Salesperson")
 camry = Car ("Toyota", "Camry", 2008, stanley)
 
 
-for car in Car._all: 
-	print(vars(car))
+
